@@ -18,7 +18,6 @@ Acesse: https://github.com/dezoliveira/oracle-sql
     - Autentique com seu usuário e senha
     - Rode o arquivo script.sql ou se preferir cole o código e rode
 
-
 - Rodando online:
     - Acesse: https://onecompiler.com/plsql
     - Copie o script e cole no site
