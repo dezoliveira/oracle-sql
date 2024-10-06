@@ -2,13 +2,15 @@
 #### Visão Geral
 Script SQL que cria a tabela VLS_USUARIOS, insere novos dados e busca os usuários que estão ativos e foram registrados no ano de 2024.
 
+Acesse: https://github.com/dezoliveira/oracle-sql
+
 ---
 #### Tecnologias 
 - Oracle
 
 --- 
 #### Como Rodar o SQL
-- git clone https://www.github.com/dezoliveira/csv-reader
+- git clone https://www.github.com/dezoliveira/oracle-sql
 - cd oracle-sql
 
 - Rodando local:
