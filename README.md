@@ -18,6 +18,7 @@ Script SQL que cria a tabela VLS_USUARIOS, insere novos dados e busca os usuári
 
 
 - Rodando online:
-    - Acesse: https://onecompiler.com/oracle
+    - Acesse: https://onecompiler.com/plsql
     - Copie o script e cole no site
-    - Selecione Oracle e de Run
+    - Cofirme se esta selecionado plsql
+    - De run
